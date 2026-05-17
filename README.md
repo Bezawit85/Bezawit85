@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bezawit Eshetu
 
-### Frontend & Full-Stack Developer from Ethiopia 🇪🇹
+### Frontend & Full-Stack Developer
 
 I build responsive, production-ready web applications using modern technologies like React, Next.js, TypeScript, Node.js, and PostgreSQL.
 
@@ -29,17 +29,6 @@ I build responsive, production-ready web applications using modern technologies 
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,nodejs,nestjs,postgres,mysql,mongodb,react,js,ts,express,nextjs" />
-</p>
-
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bezawit85&show_icons=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bezawit85&layout=compact" />
 </p>
 
 ---
